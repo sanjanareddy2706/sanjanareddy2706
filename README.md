@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sanjana Reddy V
 
-<!--
-**sanjanareddy2706/sanjanareddy2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year CSE (IoT) student | 💻 Aspiring Full Stack Developer  
+🔍 Passionate about building web apps with Python, Java, and JavaScript
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Java, Python, C, JavaScript, HTML/CSS
+- **Frameworks/Libraries:** Flask, Tailwind CSS, Bootstrap
+- **Tools:** Git, GitHub, VS Code, SQLite
+- **Currently Learning:** React.js, Node.js, MongoDB
+
+---
+
+## 🔧 Projects
+🌐 **College Connect**  
+> A real-time communication platform for colleges  
+> `Python Flask`, `WebSockets`, `SQLite`, `JavaScript`
+
+🍔 **Food Market Web App**  
+> A modern food ordering and checkout platform  
+> `HTML`, `JavaScript`, `Tailwind CSS`
+
+---
+
+## 📫 Connect with Me
+- ✉️ **Email:** sanjanareddy2706@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/sanjana-reddy-vasipalli-789668343)  
+- 🧑‍💻 [Portfolio Website](https://your-portfolio-link.com)  
+- 💻 [GitHub](https://github.com/sanjanareddy2706)
+
+---
+
+> 🌱 I'm actively seeking internship or project collaboration opportunities in Full Stack Development or related IT domains.
